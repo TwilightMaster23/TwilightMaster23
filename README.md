@@ -82,13 +82,10 @@ Telefono: +54 9 11 66108318
 <br/>  
 
 
-## Github Stats  
-  
 
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
