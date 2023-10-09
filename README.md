@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hola! Mi nombre es Brian Silva</div>  
+### <div align="left" fontSize="50">Hola! Mi nombre es Brian Silva</div>  
   
 
 
