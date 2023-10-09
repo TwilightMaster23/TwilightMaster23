@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.linkedin.com/in/brian-silva-/overlay/background-image/" align="center" style="width: 100%" />
+<img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" align="center" style="width: 100%" />
 </div>  
   
 
@@ -83,23 +83,3 @@ Telefono: +54 9 11 66108318
 
 
 
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
